@@ -1,0 +1,8 @@
+{
+  "name": "Aethelgard: Misteri Kuil Pengetahuan 3D",
+  "description": "Game petualangan teka-teki 3D kooperatif multi-pemain dengan kustomisasi avatar, chat real-time, pengunggahan soal oleh guru, dan dashboard pemantauan analitik progres siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
